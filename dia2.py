@@ -52,5 +52,5 @@ with open("notas.txt", "r") as archivo:
         print("linea:", linea.strip())
 
 with open("notas.txt", "a") as archivo:
-    archivo.write("agregando una linea mas\n")
+    archivo.write("Agregando una linea mas\n")
 
